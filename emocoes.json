@@ -1,0 +1,152 @@
+{
+  "Positivas": [
+    { "nome": "Alegria", "comando": "<joy>" },
+    { "nome": "Entusiasmo", "comando": "<enthusiasm>" },
+    { "nome": "Amor", "comando": "<love>" },
+    { "nome": "Orgulho", "comando": "<pride>" },
+    { "nome": "Esperança", "comando": "<hope>" },
+    { "nome": "Surpresa Positiva", "comando": "<positive_surprise>" },
+    { "nome": "Alívio", "comando": "<relief>" },
+    { "nome": "Confiança", "comando": "<confidence>" },
+    { "nome": "Gratidão", "comando": "<gratitude>" },
+    { "nome": "Satisfação", "comando": "<satisfaction>" },
+    { "nome": "Encantamento", "comando": "<delight>" },
+    { "nome": "Empolgação", "comando": "<excitement>" },
+    { "nome": "Admiração", "comando": "<admiration>" },
+    { "nome": "Diversão", "comando": "<amusement>" },
+    { "nome": "Curiosidade", "comando": "<curiosity>" },
+    { "nome": "Otimismo", "comando": "<optimism>" }
+  ],
+
+  "Negativas": [
+    { "nome": "Tristeza", "comando": "<sadness>" },
+    { "nome": "Raiva", "comando": "<anger>" },
+    { "nome": "Medo", "comando": "<fear>" },
+    { "nome": "Ansiedade", "comando": "<anxiety>" },
+    { "nome": "Frustração", "comando": "<frustration>" },
+    { "nome": "Decepção", "comando": "<disappointment>" },
+    { "nome": "Arrependimento", "comando": "<regret>" },
+    { "nome": "Vergonha", "comando": "<shame>" },
+    { "nome": "Desespero", "comando": "<despair>" },
+    { "nome": "Desânimo", "comando": "<discouragement>" },
+    { "nome": "Irritação", "comando": "<irritation>" },
+    { "nome": "Ciúmes", "comando": "<jealousy>" },
+    { "nome": "Inveja", "comando": "<envy>" },
+    { "nome": "Solidão", "comando": "<loneliness>" },
+    { "nome": "Desconfiança", "comando": "<distrust>" },
+    { "nome": "Culpa", "comando": "<guilt>" }
+  ],
+
+  "Neutras": [
+    { "nome": "Neutralidade", "comando": "<neutral>" },
+    { "nome": "Seriedade", "comando": "<serious>" },
+    { "nome": "Informativo", "comando": "<informative>" },
+    { "nome": "Calmo", "comando": "<calm>" },
+    { "nome": "Indiferença", "comando": "<indifference>" },
+    { "nome": "Impessoal", "comando": "<impersonal>" },
+    { "nome": "Profissional", "comando": "<professional>" },
+    { "nome": "Descritivo", "comando": "<descriptive>" },
+    { "nome": "Reflexivo", "comando": "<reflective>" }
+  ],
+
+  "Ênfase": [
+    { "nome": "Ênfase Leve", "comando": "<emphasis_soft>" },
+    { "nome": "Ênfase Média", "comando": "<emphasis_medium>" },
+    { "nome": "Ênfase Forte", "comando": "<emphasis_strong>" },
+    { "nome": "Dramatização", "comando": "<dramatic>" },
+    { "nome": "Solene", "comando": "<solemn>" },
+    { "nome": "Decisivo", "comando": "<decisive>" },
+    { "nome": "Urgência", "comando": "<urgent>" },
+    { "nome": "Suspense", "comando": "<suspense>" }
+  ],
+
+  "Tonalidade": [
+    { "nome": "Grave", "comando": "<pitch_low>" },
+    { "nome": "Agudo", "comando": "<pitch_high>" },
+    { "nome": "Neutro", "comando": "<pitch_neutral>" }
+  ],
+
+  "Pausas": [
+    { "nome": "Pausa Muito Curta", "comando": "<pause_very_short>" },
+    { "nome": "Pausa Curta", "comando": "<pause_short>" },
+    { "nome": "Pausa Média", "comando": "<pause_medium>" },
+    { "nome": "Pausa Longa", "comando": "<pause_long>" },
+    { "nome": "Pausa Muito Longa", "comando": "<pause_very_long>" }
+  ],
+
+  "Humor/Estilos": [
+    { "nome": "Humorístico", "comando": "<humorous>" },
+    { "nome": "Sarcasmo", "comando": "<sarcastic>" },
+    { "nome": "Irônico", "comando": "<ironic>" },
+    { "nome": "Provocativo", "comando": "<provocative>" },
+    { "nome": "Divertido", "comando": "<playful>" },
+    { "nome": "Cômico", "comando": "<comical>" }
+  ],
+
+  "Contexto Específico": [
+    { "nome": "Narrativa", "comando": "<narrative>" },
+    { "nome": "Publicitário", "comando": "<advertising>" },
+    { "nome": "Documental", "comando": "<documentary>" },
+    { "nome": "Educacional", "comando": "<educational>" },
+    { "nome": "Comercial", "comando": "<commercial>" },
+    { "nome": "Motivacional", "comando": "<motivational>" },
+    { "nome": "Jornalístico", "comando": "<journalistic>" },
+	{ "nome": "Locutor Ao Vivo Na Rádio", "comando": "<Live Radio Announcer>" },
+	{ "nome": "Narrador de Futebol", "comando": "<Football Commentator>" },
+    { "nome": "Tutorial", "comando": "<tutorial>" }
+  ],
+
+  "Estados Físicos": [
+    { "nome": "Cansado", "comando": "<tired>" },
+    { "nome": "Doente", "comando": "<sick>" },
+    { "nome": "Enérgico", "comando": "<energetic>" },
+    { "nome": "Sonolento", "comando": "<sleepy>" },
+    { "nome": "Relaxado", "comando": "<relaxed>" }
+  ],
+
+  "Atitude e postura": [
+    { "nome": "Determinado", "comando": "<determined>" },
+    { "nome": "Autoritário", "comando": "<authoritative>" },
+    { "nome": "Carinhoso", "comando": "<affectionate>" },
+    { "nome": "Cauteloso", "comando": "<cautious>" },
+    { "nome": "Desafiador", "comando": "<challenging>" },
+    { "nome": "Humilde", "comando": "<humble>" },
+    { "nome": "Indignado", "comando": "<indignant>" }
+  ],
+
+  "Expressões Vocais": [
+    { "nome": "Assovio", "comando": "<whistle>" },
+	{ "nome": "Cochicho (sussurrado)", "comando": "<whisper>" },
+    { "nome": "Grito", "comando": "<shout>" },
+    { "nome": "Sussurro Dramático", "comando": "<dramatic_whisper>" },
+    { "nome": "Voz Robótica", "comando": "<robotic_voice>" },
+    { "nome": "Voz de Rádio", "comando": "<radio_voice>" }
+  ],
+  
+  "Efeitos Sonoros Vocais": [
+    { "nome": "Respiração", "comando": "<breath>" },
+    { "nome": "Arroto leve", "comando": "<light_burping>" },
+	{ "nome": "Arroto forte", "comando": "<strong_burp>" },
+	{ "nome": "Arroto longo", "comando": "<long burp>" },
+	{ "nome": "Respiração (Inspiração)", "comando": "<Breathing_Inspiration>" },
+	{ "nome": "Respiração (Ofegante)", "comando": "<breathing_Panting>" },
+    { "nome": "Suspiro", "comando": "<sigh>" },
+    { "nome": "Riso leve", "comando": "<light_laugh>" },
+    { "nome": "Riso alto", "comando": "<laugh>" },
+    { "nome": "Riso nervoso", "comando": "<nervous_laugh>" },
+    { "nome": "Choro leve", "comando": "<light_cry>" },
+	{ "nome": "Choro forte", "comando": "<strong_crying>" },
+    { "nome": "Choro intenso", "comando": "<cry_intense>" },
+    { "nome": "Engasgo/Surpresa", "comando": "<gasp>" },
+    { "nome": "Clearing throat (pigarro)", "comando": "<clear_throat>" },
+    { "nome": "Bocejo", "comando": "<yawn>" },
+    { "nome": "Soluço (emoção contida)", "comando": "<sob>" },
+    { "nome": "Sniff (fungada)", "comando": "<sniff>" },
+    { "nome": "Assobio (assobiar leve)", "comando": "<whistle>" },
+    { "nome": "Gargalhada", "comando": "<giggle>" },
+    { "nome": "Beijo sonoro", "comando": "<kiss>" },
+    { "nome": "Estalo de língua (desdém ou aviso)", "comando": "<tsk>" },
+    { "nome": "Estalo de boca (preparação para falar)", "comando": "<lip_smack>" },
+    { "nome": "Zumbido ou murmurinho", "comando": "<hum>" }
+  ]
+}
